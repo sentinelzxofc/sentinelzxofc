@@ -16,7 +16,7 @@
 
 **Sempre estou por aí </>**
 
-> Quando tiver inspiração coloco um texto, falo algo emocionante
+> Quando tiver com inspiração coloco um texto, falo algo emocionante
 
 <div align="center">
 
