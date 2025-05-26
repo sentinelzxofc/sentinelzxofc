@@ -1,22 +1,22 @@
-# Bem-vindo ao meu perfil!
+# </welcome to nowhere>
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Sentinel%20ZX&fontSize=90&animation=twinkling&fontAlignY=38&desc=Sempre%20estou%20por%20aí%20</>&&fontColor=00FF00&descAlignY=60&descAlign=50)
+  ![Banner](me.png)
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Explorando+o+universo+binário;Desbravando+novos+códigos;Transformando+ideias+em+realidade&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Só+sei+que+nada+sei+%3C%2F%3E;1+%2B+1+%3D+11;01010100+01100101+01110011+01110100+01100101&font=Fira+Code&center=true&width=500&height=45&color=00FF00&vCenter=true&size=22">
 
 </div>
-
-## 🌟 Sobre Mim
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200"/>
+  <img src="gif.gif" width="600" height="300"/>
 </div>
+
+## 📖 Bio 
 
 **Sempre estou por aí </>**
 
-> Quando tive com expiração coloco um texto falo algo emocionante
+> Quando tiver inspiração coloco um texto, falo algo emocionante
 
 <div align="center">
   
@@ -84,11 +84,12 @@
 
 <div align="center">
   
-  [![Portfolio do github](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://sentinelzxofc.github.io/sentinelzxofc/)
+  [![Portfolio do GitHub](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://sentinelzxofc.github.io/sentinelzxofc/)
   [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/sentinelzxofc)
 
+</div>
 
-## 📫 Conecte-se Comigo
+## ⚫️ Contato  
 
 <div align="center">
   
@@ -109,4 +110,5 @@
   ### Visitantes
   
   <img src="https://profile-counter.glitch.me/{sentinelzxofc}/count.svg" alt="Contador de Visitantes" />
-  
+
+</div>
