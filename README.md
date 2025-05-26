@@ -57,6 +57,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00)
   ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
+  ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF00)
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
@@ -84,7 +86,7 @@
 
 <div align="center">
   
-  [![Portfolio do GitHub](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://sentinelzxofc.github.io/sentinelzxofc/)
+  [![Portfolio-GitHub](https://img.shields.io/badge/Portfolio--GitHub-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://sentinelzxofc.github.io/sentinelzxofc/)
   [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/sentinelzxofc)
 
 </div>
@@ -98,6 +100,9 @@
   </a>
   <a href="https://instagram.com/sentinelzxofc">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF00" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/sentinelzxofc">
+    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF00" alt="Telegram"/>
   </a>
   
 </div>
