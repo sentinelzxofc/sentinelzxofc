@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Banner](me.png)
+  ![Banner](me1.png)
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Só+sei+que+nada+sei+%3C%2F%3E;1+%2B+1+%3D+11;01010100+01100101+01110011+01110100+01100101&font=Fira+Code&center=true&width=500&height=45&color=00FF00&vCenter=true&size=22">
 
