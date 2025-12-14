@@ -111,7 +111,7 @@
 <!-- Botão Principal do Site -->
 <div align="center">
 
-  ## 🌐 **Portfólio Principal**
+  ## 🌐 **Portfólio repositórios Principal**
 
   <a href="https://sentinelzxofc.github.io/sentinelzxofc/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Visite_meu_Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff&fontSize=20" alt="Portfolio" width="400"/>
